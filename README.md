@@ -1,4 +1,5 @@
-Human & Animal Detection System
+# Human & Animal Detection System #
+
 📖 Overview
 
 This project implements a two-stage computer vision pipeline to detect and classify humans and animals in images and videos under real-world deployment constraints. The system uses separate object detection and classification models to improve modularity, interpretability, and performance.
